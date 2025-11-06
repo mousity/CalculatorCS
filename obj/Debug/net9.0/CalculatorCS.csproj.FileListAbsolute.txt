@@ -1,0 +1,15 @@
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.AssemblyInfoInputs.cache
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.AssemblyInfo.cs
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.csproj.CoreCompileInputs.cache
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.sourcelink.json
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\bin\Debug\net9.0\CalculatorCS.exe
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\bin\Debug\net9.0\CalculatorCS.deps.json
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\bin\Debug\net9.0\CalculatorCS.runtimeconfig.json
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\bin\Debug\net9.0\CalculatorCS.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\bin\Debug\net9.0\CalculatorCS.pdb
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\refint\CalculatorCS.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.pdb
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\CalculatorCS.genruntimeconfig.cache
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CalculatorCS\obj\Debug\net9.0\ref\CalculatorCS.dll

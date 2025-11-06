@@ -1,4 +1,7 @@
-﻿class Calculator
+﻿
+using System.Text.RegularExpressions;
+
+class Calculator
 {
     public static double DoOperation(double num1, double num2, string op)
     {
@@ -80,13 +83,14 @@ class Program
 
             string? op = Console.ReadLine();
 
+
             // Validate input is not null, and matches the pattern
-            if (op == null || ! Regex.IsMatch(op, "[a|s|m|d]"))
+            if (op == null || !Regex.IsMatch(op, "[a|s|m|d]"))
             {
                 Console.WriteLine("Error: Unrecognized input.");
             }
             else
-            { 
+            {
                 try
                 {
                     result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
